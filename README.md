@@ -1,4 +1,4 @@
-ImplicitIntents - Solution Code
+ImplicitIntents
 ===============================
 
 The ImplicitIntents app demonstrates the use of implicit intents for starting
